@@ -4,12 +4,12 @@
 [[projects]]
   name = "github.com/lggomezml/dummyrepo-go"
   packages = ["demo"]
-  revision = "87c1bfec364298e5735c64f057113e79c94934bf"
-  version = "v2.0"
+  revision = "f62710a122f62cdb564daa2414fe23d2f73ad3a4"
+  version = "1.0"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "b075692d04720b34a40d254372dc21dd47d2df3c0c2d34f714209eed1ca5b999"
+  inputs-digest = "36e7c78eefff5ec3d43f3f4118782c69670a7ca0b78dc0c7a45097721276462b"
   solver-name = "gps-cdcl"
   solver-version = 1
